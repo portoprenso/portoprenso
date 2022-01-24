@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @portoprenso
-- 👀 I’m interested in FrontEnd (JS(Native, JQuery, AJAX, BootStrap), ReactJS(Material UI), VueJS, NodeJS
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in FrontEnd (ReactJS, React Native)
+- 🌱 I’m currently learning DSA, GraphQL, NextJS
 - 📫 How to reach me portoprenso@gmail.com / https://t.me/portoprenso
 
 <!---
